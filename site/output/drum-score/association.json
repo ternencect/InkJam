@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "work_id": "caravan",
+  "score_id": "caravan-drums-v2",
+  "catalog_path": "library/catalog.json",
+  "score_sha256": "e5b0fbbb64e89054448025be1894489d34e9238ba1285a7d1bfaa24158e5f181",
+  "performances": [
+    {
+      "id": "caravan-drums-full-v1",
+      "review_path": "output/caravan-performance/review.html",
+      "media_manifest_path": "output/caravan-performance/media.json"
+    }
+  ]
+}

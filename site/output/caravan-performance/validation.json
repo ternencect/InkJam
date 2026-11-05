@@ -1,0 +1,91 @@
+{
+  "status": "passed_technical_checks",
+  "duration_sec": 336.55,
+  "video_frames": 20193,
+  "resolution": [
+    1920,
+    1080
+  ],
+  "fps": 60,
+  "source_midi_events_checked": 4263,
+  "geometric_contacts_checked": 3651,
+  "hihat_pedal_triggers_checked": 612,
+  "tempo_markings_checked": 13,
+  "time_signatures": [
+    [
+      0,
+      4,
+      4
+    ],
+    [
+      11854080,
+      2,
+      4
+    ],
+    [
+      11874240,
+      4,
+      4
+    ]
+  ],
+  "max_contact_error_px": 5.684341886080802e-14,
+  "max_stick_length_error_px": 1.7053025658242404e-13,
+  "max_tip_travel_per_frame_px": {
+    "left": 116.22133601416503,
+    "right": 128.06073137116488
+  },
+  "max_absolute_quantization_ms": 8.331666666663295,
+  "audio_alignment_windows": [
+    {
+      "time_sec": 2.0,
+      "lag_samples": 0,
+      "correlation": 0.9985264948448925
+    },
+    {
+      "time_sec": 48.0,
+      "lag_samples": 0,
+      "correlation": 0.9992194278657154
+    },
+    {
+      "time_sec": 87.0,
+      "lag_samples": 0,
+      "correlation": 0.9961373600039702
+    },
+    {
+      "time_sec": 158.0,
+      "lag_samples": 0,
+      "correlation": 0.9992004188616636
+    },
+    {
+      "time_sec": 253.6,
+      "lag_samples": 0,
+      "correlation": 0.9964145481568298
+    },
+    {
+      "time_sec": 271.0,
+      "lag_samples": 0,
+      "correlation": 0.9996419850296813
+    },
+    {
+      "time_sec": 324.0,
+      "lag_samples": 0,
+      "correlation": 0.9953992628093035
+    },
+    {
+      "time_sec": 333.0,
+      "lag_samples": 0,
+      "correlation": 0.9975290639288437
+    }
+  ],
+  "first_synthesized_onset_sec": 1.5000208333333334,
+  "source_score_sha256": "e5b0fbbb64e89054448025be1894489d34e9238ba1285a7d1bfaa24158e5f181",
+  "movie_sha256": "e67ace193ce6d2a5dcf6e868bfca1b7f1f1545bfe59be9a334bf1b5610988c0a",
+  "visual_review": "Representative contact/rebound frames inspected; 2/4 change and acceleration frames extracted from the final encoded movie. High-speed travel remains a 2D stylization, not validated human biomechanics.",
+  "limitations": [
+    "Score-based synthesized drums, not the film recording.",
+    "Source bars 21 and 22 each contain the previously documented editorial 1/64 rest.",
+    "Source tremolo realization and reconstructed velocities are retained.",
+    "Two-dimensional rig; sticking is planned, not a transcription of a human drummer.",
+    "Crash variants and china share the existing left cymbal illustration; GM sounds remain distinct."
+  ]
+}

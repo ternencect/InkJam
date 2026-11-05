@@ -1,0 +1,3183 @@
+{
+  "work_id": "caravan",
+  "score_id": "caravan-drums-v2",
+  "performance_id": "caravan-drums-full-v1",
+  "catalog_path": "library/catalog.json",
+  "source_score": "output/drum-score/Caravan_v2.musicxml",
+  "source_midi": "output/drum-score/Caravan_v2.mid",
+  "source_sha256": "e5b0fbbb64e89054448025be1894489d34e9238ba1285a7d1bfaa24158e5f181",
+  "video_filename": "Caravan-full-1080p60.mp4",
+  "duration_sec": 336.55,
+  "lead_in_sec": 1.5,
+  "fps": 60,
+  "measures": [
+    {
+      "measure": 1,
+      "tick": 0,
+      "time_sec": 1.5,
+      "meter": "4/4",
+      "bpm": 281.0,
+      "section": "Drum Introduction"
+    },
+    {
+      "measure": 2,
+      "tick": 40320,
+      "time_sec": 2.354092,
+      "meter": "4/4",
+      "bpm": 281.0,
+      "section": "Drum Introduction"
+    },
+    {
+      "measure": 3,
+      "tick": 80640,
+      "time_sec": 3.208184,
+      "meter": "4/4",
+      "bpm": 281.0,
+      "section": "Drum Introduction"
+    },
+    {
+      "measure": 4,
+      "tick": 120960,
+      "time_sec": 4.062276000000001,
+      "meter": "4/4",
+      "bpm": 281.0,
+      "section": "Drum Introduction"
+    },
+    {
+      "measure": 5,
+      "tick": 161280,
+      "time_sec": 4.916368,
+      "meter": "4/4",
+      "bpm": 281.0,
+      "section": "Drum Introduction"
+    },
+    {
+      "measure": 6,
+      "tick": 201600,
+      "time_sec": 5.77046,
+      "meter": "4/4",
+      "bpm": 281.0,
+      "section": "Drum Introduction"
+    },
+    {
+      "measure": 7,
+      "tick": 241920,
+      "time_sec": 6.624552,
+      "meter": "4/4",
+      "bpm": 281.0,
+      "section": "Drum Introduction"
+    },
+    {
+      "measure": 8,
+      "tick": 282240,
+      "time_sec": 7.478644,
+      "meter": "4/4",
+      "bpm": 281.0,
+      "section": "Drum Introduction"
+    },
+    {
+      "measure": 9,
+      "tick": 322560,
+      "time_sec": 8.332736,
+      "meter": "4/4",
+      "bpm": 281.0,
+      "section": "Drum Introduction"
+    },
+    {
+      "measure": 10,
+      "tick": 362880,
+      "time_sec": 9.186828,
+      "meter": "4/4",
+      "bpm": 281.0,
+      "section": "Drum Introduction"
+    },
+    {
+      "measure": 11,
+      "tick": 403200,
+      "time_sec": 10.04092,
+      "meter": "4/4",
+      "bpm": 281.0,
+      "section": "Drum Introduction"
+    },
+    {
+      "measure": 12,
+      "tick": 443520,
+      "time_sec": 10.895012,
+      "meter": "4/4",
+      "bpm": 281.0,
+      "section": "Drum Introduction"
+    },
+    {
+      "measure": 13,
+      "tick": 483840,
+      "time_sec": 11.749104,
+      "meter": "4/4",
+      "bpm": 281.0,
+      "section": "Drum Introduction"
+    },
+    {
+      "measure": 14,
+      "tick": 524160,
+      "time_sec": 12.603196,
+      "meter": "4/4",
+      "bpm": 281.0,
+      "section": "Drum Introduction"
+    },
+    {
+      "measure": 15,
+      "tick": 564480,
+      "time_sec": 13.457288,
+      "meter": "4/4",
+      "bpm": 281.0,
+      "section": "Drum Introduction"
+    },
+    {
+      "measure": 16,
+      "tick": 604800,
+      "time_sec": 14.31138,
+      "meter": "4/4",
+      "bpm": 281.0,
+      "section": "Drum Introduction"
+    },
+    {
+      "measure": 17,
+      "tick": 645120,
+      "time_sec": 15.165472,
+      "meter": "4/4",
+      "bpm": 281.0,
+      "section": "Drum Introduction"
+    },
+    {
+      "measure": 18,
+      "tick": 685440,
+      "time_sec": 16.019564000000003,
+      "meter": "4/4",
+      "bpm": 281.0,
+      "section": "Drum Introduction"
+    },
+    {
+      "measure": 19,
+      "tick": 725760,
+      "time_sec": 16.873656,
+      "meter": "4/4",
+      "bpm": 281.0,
+      "section": "Drum Introduction"
+    },
+    {
+      "measure": 20,
+      "tick": 766080,
+      "time_sec": 17.727748,
+      "meter": "4/4",
+      "bpm": 281.0,
+      "section": "Drum Introduction"
+    },
+    {
+      "measure": 21,
+      "tick": 806400,
+      "time_sec": 18.58184,
+      "meter": "4/4",
+      "bpm": 281.0,
+      "section": "Drum Introduction"
+    },
+    {
+      "measure": 22,
+      "tick": 846720,
+      "time_sec": 19.435932,
+      "meter": "4/4",
+      "bpm": 281.0,
+      "section": "Drum Introduction"
+    },
+    {
+      "measure": 23,
+      "tick": 887040,
+      "time_sec": 20.290024,
+      "meter": "4/4",
+      "bpm": 281.0,
+      "section": "Drum Introduction"
+    },
+    {
+      "measure": 24,
+      "tick": 927360,
+      "time_sec": 21.144116,
+      "meter": "4/4",
+      "bpm": 281.0,
+      "section": "Drum Introduction"
+    },
+    {
+      "measure": 25,
+      "tick": 967680,
+      "time_sec": 21.998208,
+      "meter": "4/4",
+      "bpm": 281.0,
+      "section": "A - Bass Enter"
+    },
+    {
+      "measure": 26,
+      "tick": 1008000,
+      "time_sec": 22.8523,
+      "meter": "4/4",
+      "bpm": 281.0,
+      "section": "A - Bass Enter"
+    },
+    {
+      "measure": 27,
+      "tick": 1048320,
+      "time_sec": 23.706392,
+      "meter": "4/4",
+      "bpm": 281.0,
+      "section": "A - Bass Enter"
+    },
+    {
+      "measure": 28,
+      "tick": 1088640,
+      "time_sec": 24.560484,
+      "meter": "4/4",
+      "bpm": 281.0,
+      "section": "A - Bass Enter"
+    },
+    {
+      "measure": 29,
+      "tick": 1128960,
+      "time_sec": 25.414576,
+      "meter": "4/4",
+      "bpm": 281.0,
+      "section": "A - Bass Enter"
+    },
+    {
+      "measure": 30,
+      "tick": 1169280,
+      "time_sec": 26.268668,
+      "meter": "4/4",
+      "bpm": 281.0,
+      "section": "A - Bass Enter"
+    },
+    {
+      "measure": 31,
+      "tick": 1209600,
+      "time_sec": 27.12276,
+      "meter": "4/4",
+      "bpm": 281.0,
+      "section": "A - Bass Enter"
+    },
+    {
+      "measure": 32,
+      "tick": 1249920,
+      "time_sec": 27.976852,
+      "meter": "4/4",
+      "bpm": 281.0,
+      "section": "A - Bass Enter"
+    },
+    {
+      "measure": 33,
+      "tick": 1290240,
+      "time_sec": 28.830944,
+      "meter": "4/4",
+      "bpm": 281.0,
+      "section": "A - Bass Enter"
+    },
+    {
+      "measure": 34,
+      "tick": 1330560,
+      "time_sec": 29.685036,
+      "meter": "4/4",
+      "bpm": 281.0,
+      "section": "A - Bass Enter"
+    },
+    {
+      "measure": 35,
+      "tick": 1370880,
+      "time_sec": 30.539128,
+      "meter": "4/4",
+      "bpm": 281.0,
+      "section": "A - Bass Enter"
+    },
+    {
+      "measure": 36,
+      "tick": 1411200,
+      "time_sec": 31.39322,
+      "meter": "4/4",
+      "bpm": 281.0,
+      "section": "A - Bass Enter"
+    },
+    {
+      "measure": 37,
+      "tick": 1451520,
+      "time_sec": 32.247312,
+      "meter": "4/4",
+      "bpm": 281.0,
+      "section": "A - Bass Enter"
+    },
+    {
+      "measure": 38,
+      "tick": 1491840,
+      "time_sec": 33.101404,
+      "meter": "4/4",
+      "bpm": 281.0,
+      "section": "A - Bass Enter"
+    },
+    {
+      "measure": 39,
+      "tick": 1532160,
+      "time_sec": 33.955496,
+      "meter": "4/4",
+      "bpm": 281.0,
+      "section": "A - Bass Enter"
+    },
+    {
+      "measure": 40,
+      "tick": 1572480,
+      "time_sec": 34.809588,
+      "meter": "4/4",
+      "bpm": 281.0,
+      "section": "A - Bass Enter"
+    },
+    {
+      "measure": 41,
+      "tick": 1612800,
+      "time_sec": 35.66368,
+      "meter": "4/4",
+      "bpm": 281.0,
+      "section": "Piano Enter"
+    },
+    {
+      "measure": 42,
+      "tick": 1653120,
+      "time_sec": 36.517772,
+      "meter": "4/4",
+      "bpm": 281.0,
+      "section": "Piano Enter"
+    },
+    {
+      "measure": 43,
+      "tick": 1693440,
+      "time_sec": 37.371864,
+      "meter": "4/4",
+      "bpm": 281.0,
+      "section": "Piano Enter"
+    },
+    {
+      "measure": 44,
+      "tick": 1733760,
+      "time_sec": 38.225956,
+      "meter": "4/4",
+      "bpm": 281.0,
+      "section": "Piano Enter"
+    },
+    {
+      "measure": 45,
+      "tick": 1774080,
+      "time_sec": 39.080048,
+      "meter": "4/4",
+      "bpm": 281.0,
+      "section": "Piano Enter"
+    },
+    {
+      "measure": 46,
+      "tick": 1814400,
+      "time_sec": 39.93414,
+      "meter": "4/4",
+      "bpm": 281.0,
+      "section": "Piano Enter"
+    },
+    {
+      "measure": 47,
+      "tick": 1854720,
+      "time_sec": 40.788232,
+      "meter": "4/4",
+      "bpm": 281.0,
+      "section": "Piano Enter"
+    },
+    {
+      "measure": 48,
+      "tick": 1895040,
+      "time_sec": 41.642324,
+      "meter": "4/4",
+      "bpm": 281.0,
+      "section": "Piano Enter"
+    },
+    {
+      "measure": 49,
+      "tick": 1935360,
+      "time_sec": 42.496416,
+      "meter": "4/4",
+      "bpm": 281.0,
+      "section": "Wind Players Enter"
+    },
+    {
+      "measure": 50,
+      "tick": 1975680,
+      "time_sec": 43.350508,
+      "meter": "4/4",
+      "bpm": 281.0,
+      "section": "Wind Players Enter"
+    },
+    {
+      "measure": 51,
+      "tick": 2016000,
+      "time_sec": 44.2046,
+      "meter": "4/4",
+      "bpm": 281.0,
+      "section": "Wind Players Enter"
+    },
+    {
+      "measure": 52,
+      "tick": 2056320,
+      "time_sec": 45.058692,
+      "meter": "4/4",
+      "bpm": 281.0,
+      "section": "Wind Players Enter"
+    },
+    {
+      "measure": 53,
+      "tick": 2096640,
+      "time_sec": 45.912784,
+      "meter": "4/4",
+      "bpm": 281.0,
+      "section": "Wind Players Enter"
+    },
+    {
+      "measure": 54,
+      "tick": 2136960,
+      "time_sec": 46.766876,
+      "meter": "4/4",
+      "bpm": 281.0,
+      "section": "Wind Players Enter"
+    },
+    {
+      "measure": 55,
+      "tick": 2177280,
+      "time_sec": 47.620968,
+      "meter": "4/4",
+      "bpm": 281.0,
+      "section": "Wind Players Enter"
+    },
+    {
+      "measure": 56,
+      "tick": 2217600,
+      "time_sec": 48.47506,
+      "meter": "4/4",
+      "bpm": 275.0,
+      "section": "Wind Players Enter"
+    },
+    {
+      "measure": 57,
+      "tick": 2257920,
+      "time_sec": 49.347788,
+      "meter": "4/4",
+      "bpm": 267.0,
+      "section": "B - Slower"
+    },
+    {
+      "measure": 58,
+      "tick": 2298240,
+      "time_sec": 50.246664,
+      "meter": "4/4",
+      "bpm": 271.0,
+      "section": "B - Slower"
+    },
+    {
+      "measure": 59,
+      "tick": 2338560,
+      "time_sec": 51.132272,
+      "meter": "4/4",
+      "bpm": 273.0,
+      "section": "B - Slower"
+    },
+    {
+      "measure": 60,
+      "tick": 2378880,
+      "time_sec": 52.011392,
+      "meter": "4/4",
+      "bpm": 275.0,
+      "section": "B - Slower"
+    },
+    {
+      "measure": 61,
+      "tick": 2419200,
+      "time_sec": 52.88412,
+      "meter": "4/4",
+      "bpm": 275.0,
+      "section": "B - Slower"
+    },
+    {
+      "measure": 62,
+      "tick": 2459520,
+      "time_sec": 53.756848,
+      "meter": "4/4",
+      "bpm": 275.0,
+      "section": "B - Slower"
+    },
+    {
+      "measure": 63,
+      "tick": 2499840,
+      "time_sec": 54.629576,
+      "meter": "4/4",
+      "bpm": 275.0,
+      "section": "B - Slower"
+    },
+    {
+      "measure": 64,
+      "tick": 2540160,
+      "time_sec": 55.502304,
+      "meter": "4/4",
+      "bpm": 277.0,
+      "section": "B - Slower"
+    },
+    {
+      "measure": 65,
+      "tick": 2580480,
+      "time_sec": 56.368728000000004,
+      "meter": "4/4",
+      "bpm": 278.0,
+      "section": "B - Slower"
+    },
+    {
+      "measure": 66,
+      "tick": 2620800,
+      "time_sec": 57.23203600000001,
+      "meter": "4/4",
+      "bpm": 278.0,
+      "section": "B - Slower"
+    },
+    {
+      "measure": 67,
+      "tick": 2661120,
+      "time_sec": 58.095344000000004,
+      "meter": "4/4",
+      "bpm": 278.0,
+      "section": "B - Slower"
+    },
+    {
+      "measure": 68,
+      "tick": 2701440,
+      "time_sec": 58.958652,
+      "meter": "4/4",
+      "bpm": 281.0,
+      "section": "B - Slower"
+    },
+    {
+      "measure": 69,
+      "tick": 2741760,
+      "time_sec": 59.812744,
+      "meter": "4/4",
+      "bpm": 281.0,
+      "section": "C - A Tempo"
+    },
+    {
+      "measure": 70,
+      "tick": 2782080,
+      "time_sec": 60.666836,
+      "meter": "4/4",
+      "bpm": 281.0,
+      "section": "C - A Tempo"
+    },
+    {
+      "measure": 71,
+      "tick": 2822400,
+      "time_sec": 61.520928,
+      "meter": "4/4",
+      "bpm": 281.0,
+      "section": "C - A Tempo"
+    },
+    {
+      "measure": 72,
+      "tick": 2862720,
+      "time_sec": 62.37502,
+      "meter": "4/4",
+      "bpm": 281.0,
+      "section": "C - A Tempo"
+    },
+    {
+      "measure": 73,
+      "tick": 2903040,
+      "time_sec": 63.229112,
+      "meter": "4/4",
+      "bpm": 281.0,
+      "section": "C - A Tempo"
+    },
+    {
+      "measure": 74,
+      "tick": 2943360,
+      "time_sec": 64.083204,
+      "meter": "4/4",
+      "bpm": 281.0,
+      "section": "C - A Tempo"
+    },
+    {
+      "measure": 75,
+      "tick": 2983680,
+      "time_sec": 64.937296,
+      "meter": "4/4",
+      "bpm": 281.0,
+      "section": "C - A Tempo"
+    },
+    {
+      "measure": 76,
+      "tick": 3024000,
+      "time_sec": 65.791388,
+      "meter": "4/4",
+      "bpm": 281.0,
+      "section": "C - A Tempo"
+    },
+    {
+      "measure": 77,
+      "tick": 3064320,
+      "time_sec": 66.64548,
+      "meter": "4/4",
+      "bpm": 281.0,
+      "section": "C - A Tempo"
+    },
+    {
+      "measure": 78,
+      "tick": 3104640,
+      "time_sec": 67.499572,
+      "meter": "4/4",
+      "bpm": 281.0,
+      "section": "C - A Tempo"
+    },
+    {
+      "measure": 79,
+      "tick": 3144960,
+      "time_sec": 68.353664,
+      "meter": "4/4",
+      "bpm": 281.0,
+      "section": "C - A Tempo"
+    },
+    {
+      "measure": 80,
+      "tick": 3185280,
+      "time_sec": 69.207756,
+      "meter": "4/4",
+      "bpm": 281.0,
+      "section": "C - A Tempo"
+    },
+    {
+      "measure": 81,
+      "tick": 3225600,
+      "time_sec": 70.061848,
+      "meter": "4/4",
+      "bpm": 281.0,
+      "section": "C - A Tempo"
+    },
+    {
+      "measure": 82,
+      "tick": 3265920,
+      "time_sec": 70.91594,
+      "meter": "4/4",
+      "bpm": 281.0,
+      "section": "C - A Tempo"
+    },
+    {
+      "measure": 83,
+      "tick": 3306240,
+      "time_sec": 71.770032,
+      "meter": "4/4",
+      "bpm": 281.0,
+      "section": "C - A Tempo"
+    },
+    {
+      "measure": 84,
+      "tick": 3346560,
+      "time_sec": 72.624124,
+      "meter": "4/4",
+      "bpm": 281.0,
+      "section": "C - A Tempo"
+    },
+    {
+      "measure": 85,
+      "tick": 3386880,
+      "time_sec": 73.478216,
+      "meter": "4/4",
+      "bpm": 281.0,
+      "section": "C - A Tempo"
+    },
+    {
+      "measure": 86,
+      "tick": 3427200,
+      "time_sec": 74.332308,
+      "meter": "4/4",
+      "bpm": 281.0,
+      "section": "C - A Tempo"
+    },
+    {
+      "measure": 87,
+      "tick": 3467520,
+      "time_sec": 75.18639999999999,
+      "meter": "4/4",
+      "bpm": 281.0,
+      "section": "C - A Tempo"
+    },
+    {
+      "measure": 88,
+      "tick": 3507840,
+      "time_sec": 76.040492,
+      "meter": "4/4",
+      "bpm": 281.0,
+      "section": "C - A Tempo"
+    },
+    {
+      "measure": 89,
+      "tick": 3548160,
+      "time_sec": 76.89458400000001,
+      "meter": "4/4",
+      "bpm": 281.0,
+      "section": "C - A Tempo"
+    },
+    {
+      "measure": 90,
+      "tick": 3588480,
+      "time_sec": 77.748676,
+      "meter": "4/4",
+      "bpm": 281.0,
+      "section": "C - A Tempo"
+    },
+    {
+      "measure": 91,
+      "tick": 3628800,
+      "time_sec": 78.602768,
+      "meter": "4/4",
+      "bpm": 281.0,
+      "section": "C - A Tempo"
+    },
+    {
+      "measure": 92,
+      "tick": 3669120,
+      "time_sec": 79.45686,
+      "meter": "4/4",
+      "bpm": 281.0,
+      "section": "C - A Tempo"
+    },
+    {
+      "measure": 93,
+      "tick": 3709440,
+      "time_sec": 80.310952,
+      "meter": "4/4",
+      "bpm": 281.0,
+      "section": "C - A Tempo"
+    },
+    {
+      "measure": 94,
+      "tick": 3749760,
+      "time_sec": 81.165044,
+      "meter": "4/4",
+      "bpm": 281.0,
+      "section": "C - A Tempo"
+    },
+    {
+      "measure": 95,
+      "tick": 3790080,
+      "time_sec": 82.019136,
+      "meter": "4/4",
+      "bpm": 281.0,
+      "section": "C - A Tempo"
+    },
+    {
+      "measure": 96,
+      "tick": 3830400,
+      "time_sec": 82.873228,
+      "meter": "4/4",
+      "bpm": 281.0,
+      "section": "C - A Tempo"
+    },
+    {
+      "measure": 97,
+      "tick": 3870720,
+      "time_sec": 83.72732,
+      "meter": "4/4",
+      "bpm": 281.0,
+      "section": "C - A Tempo"
+    },
+    {
+      "measure": 98,
+      "tick": 3911040,
+      "time_sec": 84.581412,
+      "meter": "4/4",
+      "bpm": 281.0,
+      "section": "C - A Tempo"
+    },
+    {
+      "measure": 99,
+      "tick": 3951360,
+      "time_sec": 85.43550400000001,
+      "meter": "4/4",
+      "bpm": 281.0,
+      "section": "C - A Tempo"
+    },
+    {
+      "measure": 100,
+      "tick": 3991680,
+      "time_sec": 86.289596,
+      "meter": "4/4",
+      "bpm": 281.0,
+      "section": "C - A Tempo"
+    },
+    {
+      "measure": 101,
+      "tick": 4032000,
+      "time_sec": 87.143688,
+      "meter": "4/4",
+      "bpm": 281.0,
+      "section": "D - Swing"
+    },
+    {
+      "measure": 102,
+      "tick": 4072320,
+      "time_sec": 87.99778,
+      "meter": "4/4",
+      "bpm": 281.0,
+      "section": "D - Swing"
+    },
+    {
+      "measure": 103,
+      "tick": 4112640,
+      "time_sec": 88.851872,
+      "meter": "4/4",
+      "bpm": 281.0,
+      "section": "D - Swing"
+    },
+    {
+      "measure": 104,
+      "tick": 4152960,
+      "time_sec": 89.705964,
+      "meter": "4/4",
+      "bpm": 281.0,
+      "section": "D - Swing"
+    },
+    {
+      "measure": 105,
+      "tick": 4193280,
+      "time_sec": 90.560056,
+      "meter": "4/4",
+      "bpm": 281.0,
+      "section": "D - Swing"
+    },
+    {
+      "measure": 106,
+      "tick": 4233600,
+      "time_sec": 91.414148,
+      "meter": "4/4",
+      "bpm": 281.0,
+      "section": "D - Swing"
+    },
+    {
+      "measure": 107,
+      "tick": 4273920,
+      "time_sec": 92.26823999999999,
+      "meter": "4/4",
+      "bpm": 281.0,
+      "section": "D - Swing"
+    },
+    {
+      "measure": 108,
+      "tick": 4314240,
+      "time_sec": 93.122332,
+      "meter": "4/4",
+      "bpm": 281.0,
+      "section": "D - Swing"
+    },
+    {
+      "measure": 109,
+      "tick": 4354560,
+      "time_sec": 93.97642400000001,
+      "meter": "4/4",
+      "bpm": 281.0,
+      "section": "D - Swing"
+    },
+    {
+      "measure": 110,
+      "tick": 4394880,
+      "time_sec": 94.830516,
+      "meter": "4/4",
+      "bpm": 281.0,
+      "section": "D - Swing"
+    },
+    {
+      "measure": 111,
+      "tick": 4435200,
+      "time_sec": 95.684608,
+      "meter": "4/4",
+      "bpm": 281.0,
+      "section": "D - Swing"
+    },
+    {
+      "measure": 112,
+      "tick": 4475520,
+      "time_sec": 96.5387,
+      "meter": "4/4",
+      "bpm": 281.0,
+      "section": "D - Swing"
+    },
+    {
+      "measure": 113,
+      "tick": 4515840,
+      "time_sec": 97.392792,
+      "meter": "4/4",
+      "bpm": 281.0,
+      "section": "D - Swing"
+    },
+    {
+      "measure": 114,
+      "tick": 4556160,
+      "time_sec": 98.246884,
+      "meter": "4/4",
+      "bpm": 281.0,
+      "section": "D - Swing"
+    },
+    {
+      "measure": 115,
+      "tick": 4596480,
+      "time_sec": 99.100976,
+      "meter": "4/4",
+      "bpm": 281.0,
+      "section": "D - Swing"
+    },
+    {
+      "measure": 116,
+      "tick": 4636800,
+      "time_sec": 99.95506800000001,
+      "meter": "4/4",
+      "bpm": 281.0,
+      "section": "E - Straight Eighths"
+    },
+    {
+      "measure": 117,
+      "tick": 4677120,
+      "time_sec": 100.80915999999999,
+      "meter": "4/4",
+      "bpm": 281.0,
+      "section": "E - Straight Eighths"
+    },
+    {
+      "measure": 118,
+      "tick": 4717440,
+      "time_sec": 101.663252,
+      "meter": "4/4",
+      "bpm": 281.0,
+      "section": "E - Straight Eighths"
+    },
+    {
+      "measure": 119,
+      "tick": 4757760,
+      "time_sec": 102.51734400000001,
+      "meter": "4/4",
+      "bpm": 281.0,
+      "section": "E - Straight Eighths"
+    },
+    {
+      "measure": 120,
+      "tick": 4798080,
+      "time_sec": 103.371436,
+      "meter": "4/4",
+      "bpm": 281.0,
+      "section": "E - Straight Eighths"
+    },
+    {
+      "measure": 121,
+      "tick": 4838400,
+      "time_sec": 104.225528,
+      "meter": "4/4",
+      "bpm": 281.0,
+      "section": "E - Straight Eighths"
+    },
+    {
+      "measure": 122,
+      "tick": 4878720,
+      "time_sec": 105.07962,
+      "meter": "4/4",
+      "bpm": 281.0,
+      "section": "E - Straight Eighths"
+    },
+    {
+      "measure": 123,
+      "tick": 4919040,
+      "time_sec": 105.933712,
+      "meter": "4/4",
+      "bpm": 281.0,
+      "section": "E - Straight Eighths"
+    },
+    {
+      "measure": 124,
+      "tick": 4959360,
+      "time_sec": 106.787804,
+      "meter": "4/4",
+      "bpm": 281.0,
+      "section": "E - Straight Eighths"
+    },
+    {
+      "measure": 125,
+      "tick": 4999680,
+      "time_sec": 107.641896,
+      "meter": "4/4",
+      "bpm": 281.0,
+      "section": "E - Straight Eighths"
+    },
+    {
+      "measure": 126,
+      "tick": 5040000,
+      "time_sec": 108.49598800000001,
+      "meter": "4/4",
+      "bpm": 281.0,
+      "section": "E - Straight Eighths"
+    },
+    {
+      "measure": 127,
+      "tick": 5080320,
+      "time_sec": 109.35007999999999,
+      "meter": "4/4",
+      "bpm": 281.0,
+      "section": "E - Straight Eighths"
+    },
+    {
+      "measure": 128,
+      "tick": 5120640,
+      "time_sec": 110.204172,
+      "meter": "4/4",
+      "bpm": 281.0,
+      "section": "E - Straight Eighths"
+    },
+    {
+      "measure": 129,
+      "tick": 5160960,
+      "time_sec": 111.05826400000001,
+      "meter": "4/4",
+      "bpm": 281.0,
+      "section": "E - Straight Eighths"
+    },
+    {
+      "measure": 130,
+      "tick": 5201280,
+      "time_sec": 111.912356,
+      "meter": "4/4",
+      "bpm": 281.0,
+      "section": "E - Straight Eighths"
+    },
+    {
+      "measure": 131,
+      "tick": 5241600,
+      "time_sec": 112.766448,
+      "meter": "4/4",
+      "bpm": 281.0,
+      "section": "E - Straight Eighths"
+    },
+    {
+      "measure": 132,
+      "tick": 5281920,
+      "time_sec": 113.62054,
+      "meter": "4/4",
+      "bpm": 281.0,
+      "section": "E - Straight Eighths"
+    },
+    {
+      "measure": 133,
+      "tick": 5322240,
+      "time_sec": 114.474632,
+      "meter": "4/4",
+      "bpm": 281.0,
+      "section": "E - Straight Eighths"
+    },
+    {
+      "measure": 134,
+      "tick": 5362560,
+      "time_sec": 115.328724,
+      "meter": "4/4",
+      "bpm": 281.0,
+      "section": "E - Straight Eighths"
+    },
+    {
+      "measure": 135,
+      "tick": 5402880,
+      "time_sec": 116.182816,
+      "meter": "4/4",
+      "bpm": 281.0,
+      "section": "E - Straight Eighths"
+    },
+    {
+      "measure": 136,
+      "tick": 5443200,
+      "time_sec": 117.03690800000001,
+      "meter": "4/4",
+      "bpm": 281.0,
+      "section": "E - Straight Eighths"
+    },
+    {
+      "measure": 137,
+      "tick": 5483520,
+      "time_sec": 117.89099999999999,
+      "meter": "4/4",
+      "bpm": 281.0,
+      "section": "E - Straight Eighths"
+    },
+    {
+      "measure": 138,
+      "tick": 5523840,
+      "time_sec": 118.745092,
+      "meter": "4/4",
+      "bpm": 281.0,
+      "section": "E - Straight Eighths"
+    },
+    {
+      "measure": 139,
+      "tick": 5564160,
+      "time_sec": 119.59918400000001,
+      "meter": "4/4",
+      "bpm": 281.0,
+      "section": "E - Straight Eighths"
+    },
+    {
+      "measure": 140,
+      "tick": 5604480,
+      "time_sec": 120.453276,
+      "meter": "4/4",
+      "bpm": 281.0,
+      "section": "E - Straight Eighths"
+    },
+    {
+      "measure": 141,
+      "tick": 5644800,
+      "time_sec": 121.307368,
+      "meter": "4/4",
+      "bpm": 281.0,
+      "section": "E - Straight Eighths"
+    },
+    {
+      "measure": 142,
+      "tick": 5685120,
+      "time_sec": 122.16146,
+      "meter": "4/4",
+      "bpm": 281.0,
+      "section": "E - Straight Eighths"
+    },
+    {
+      "measure": 143,
+      "tick": 5725440,
+      "time_sec": 123.015552,
+      "meter": "4/4",
+      "bpm": 281.0,
+      "section": "E - Straight Eighths"
+    },
+    {
+      "measure": 144,
+      "tick": 5765760,
+      "time_sec": 123.869644,
+      "meter": "4/4",
+      "bpm": 281.0,
+      "section": "E - Straight Eighths"
+    },
+    {
+      "measure": 145,
+      "tick": 5806080,
+      "time_sec": 124.723736,
+      "meter": "4/4",
+      "bpm": 281.0,
+      "section": "E - Straight Eighths"
+    },
+    {
+      "measure": 146,
+      "tick": 5846400,
+      "time_sec": 125.577828,
+      "meter": "4/4",
+      "bpm": 281.0,
+      "section": "E - Straight Eighths"
+    },
+    {
+      "measure": 147,
+      "tick": 5886720,
+      "time_sec": 126.43192,
+      "meter": "4/4",
+      "bpm": 281.0,
+      "section": "E - Straight Eighths"
+    },
+    {
+      "measure": 148,
+      "tick": 5927040,
+      "time_sec": 127.286012,
+      "meter": "4/4",
+      "bpm": 281.0,
+      "section": "E - Straight Eighths"
+    },
+    {
+      "measure": 149,
+      "tick": 5967360,
+      "time_sec": 128.140104,
+      "meter": "4/4",
+      "bpm": 281.0,
+      "section": "E - Straight Eighths"
+    },
+    {
+      "measure": 150,
+      "tick": 6007680,
+      "time_sec": 128.994196,
+      "meter": "4/4",
+      "bpm": 281.0,
+      "section": "E - Straight Eighths"
+    },
+    {
+      "measure": 151,
+      "tick": 6048000,
+      "time_sec": 129.848288,
+      "meter": "4/4",
+      "bpm": 281.0,
+      "section": "E - Straight Eighths"
+    },
+    {
+      "measure": 152,
+      "tick": 6088320,
+      "time_sec": 130.70238,
+      "meter": "4/4",
+      "bpm": 281.0,
+      "section": "E - Straight Eighths"
+    },
+    {
+      "measure": 153,
+      "tick": 6128640,
+      "time_sec": 131.55647199999999,
+      "meter": "4/4",
+      "bpm": 281.0,
+      "section": "F - Trombone Solo"
+    },
+    {
+      "measure": 154,
+      "tick": 6168960,
+      "time_sec": 132.410564,
+      "meter": "4/4",
+      "bpm": 281.0,
+      "section": "F - Trombone Solo"
+    },
+    {
+      "measure": 155,
+      "tick": 6209280,
+      "time_sec": 133.264656,
+      "meter": "4/4",
+      "bpm": 281.0,
+      "section": "F - Trombone Solo"
+    },
+    {
+      "measure": 156,
+      "tick": 6249600,
+      "time_sec": 134.11874799999998,
+      "meter": "4/4",
+      "bpm": 281.0,
+      "section": "F - Trombone Solo"
+    },
+    {
+      "measure": 157,
+      "tick": 6289920,
+      "time_sec": 134.97284000000002,
+      "meter": "4/4",
+      "bpm": 281.0,
+      "section": "F - Trombone Solo"
+    },
+    {
+      "measure": 158,
+      "tick": 6330240,
+      "time_sec": 135.826932,
+      "meter": "4/4",
+      "bpm": 281.0,
+      "section": "F - Trombone Solo"
+    },
+    {
+      "measure": 159,
+      "tick": 6370560,
+      "time_sec": 136.68102399999998,
+      "meter": "4/4",
+      "bpm": 281.0,
+      "section": "F - Trombone Solo"
+    },
+    {
+      "measure": 160,
+      "tick": 6410880,
+      "time_sec": 137.53511600000002,
+      "meter": "4/4",
+      "bpm": 281.0,
+      "section": "F - Trombone Solo"
+    },
+    {
+      "measure": 161,
+      "tick": 6451200,
+      "time_sec": 138.389208,
+      "meter": "4/4",
+      "bpm": 281.0,
+      "section": "F - Trombone Solo"
+    },
+    {
+      "measure": 162,
+      "tick": 6491520,
+      "time_sec": 139.2433,
+      "meter": "4/4",
+      "bpm": 281.0,
+      "section": "F - Trombone Solo"
+    },
+    {
+      "measure": 163,
+      "tick": 6531840,
+      "time_sec": 140.097392,
+      "meter": "4/4",
+      "bpm": 281.0,
+      "section": "F - Trombone Solo"
+    },
+    {
+      "measure": 164,
+      "tick": 6572160,
+      "time_sec": 140.951484,
+      "meter": "4/4",
+      "bpm": 281.0,
+      "section": "F - Trombone Solo"
+    },
+    {
+      "measure": 165,
+      "tick": 6612480,
+      "time_sec": 141.805576,
+      "meter": "4/4",
+      "bpm": 281.0,
+      "section": "F - Trombone Solo"
+    },
+    {
+      "measure": 166,
+      "tick": 6652800,
+      "time_sec": 142.659668,
+      "meter": "4/4",
+      "bpm": 281.0,
+      "section": "F - Trombone Solo"
+    },
+    {
+      "measure": 167,
+      "tick": 6693120,
+      "time_sec": 143.51376,
+      "meter": "4/4",
+      "bpm": 281.0,
+      "section": "F - Trombone Solo"
+    },
+    {
+      "measure": 168,
+      "tick": 6733440,
+      "time_sec": 144.367852,
+      "meter": "4/4",
+      "bpm": 281.0,
+      "section": "F - Trombone Solo"
+    },
+    {
+      "measure": 169,
+      "tick": 6773760,
+      "time_sec": 145.221944,
+      "meter": "4/4",
+      "bpm": 281.0,
+      "section": "F - Trombone Solo"
+    },
+    {
+      "measure": 170,
+      "tick": 6814080,
+      "time_sec": 146.076036,
+      "meter": "4/4",
+      "bpm": 281.0,
+      "section": "F - Trombone Solo"
+    },
+    {
+      "measure": 171,
+      "tick": 6854400,
+      "time_sec": 146.930128,
+      "meter": "4/4",
+      "bpm": 281.0,
+      "section": "F - Trombone Solo"
+    },
+    {
+      "measure": 172,
+      "tick": 6894720,
+      "time_sec": 147.78422,
+      "meter": "4/4",
+      "bpm": 281.0,
+      "section": "F - Trombone Solo"
+    },
+    {
+      "measure": 173,
+      "tick": 6935040,
+      "time_sec": 148.63831199999998,
+      "meter": "4/4",
+      "bpm": 281.0,
+      "section": "F - Trombone Solo"
+    },
+    {
+      "measure": 174,
+      "tick": 6975360,
+      "time_sec": 149.49240400000002,
+      "meter": "4/4",
+      "bpm": 281.0,
+      "section": "F - Trombone Solo"
+    },
+    {
+      "measure": 175,
+      "tick": 7015680,
+      "time_sec": 150.346496,
+      "meter": "4/4",
+      "bpm": 281.0,
+      "section": "F - Trombone Solo"
+    },
+    {
+      "measure": 176,
+      "tick": 7056000,
+      "time_sec": 151.20058799999998,
+      "meter": "4/4",
+      "bpm": 281.0,
+      "section": "F - Trombone Solo"
+    },
+    {
+      "measure": 177,
+      "tick": 7096320,
+      "time_sec": 152.05468000000002,
+      "meter": "4/4",
+      "bpm": 281.0,
+      "section": "F - Trombone Solo"
+    },
+    {
+      "measure": 178,
+      "tick": 7136640,
+      "time_sec": 152.908772,
+      "meter": "4/4",
+      "bpm": 281.0,
+      "section": "F - Trombone Solo"
+    },
+    {
+      "measure": 179,
+      "tick": 7176960,
+      "time_sec": 153.762864,
+      "meter": "4/4",
+      "bpm": 281.0,
+      "section": "F - Trombone Solo"
+    },
+    {
+      "measure": 180,
+      "tick": 7217280,
+      "time_sec": 154.61695600000002,
+      "meter": "4/4",
+      "bpm": 281.0,
+      "section": "F - Trombone Solo"
+    },
+    {
+      "measure": 181,
+      "tick": 7257600,
+      "time_sec": 155.471048,
+      "meter": "4/4",
+      "bpm": 281.0,
+      "section": "F - Trombone Solo"
+    },
+    {
+      "measure": 182,
+      "tick": 7297920,
+      "time_sec": 156.32514,
+      "meter": "4/4",
+      "bpm": 281.0,
+      "section": "F - Trombone Solo"
+    },
+    {
+      "measure": 183,
+      "tick": 7338240,
+      "time_sec": 157.179232,
+      "meter": "4/4",
+      "bpm": 281.0,
+      "section": "F - Trombone Solo"
+    },
+    {
+      "measure": 184,
+      "tick": 7378560,
+      "time_sec": 158.033324,
+      "meter": "4/4",
+      "bpm": 281.0,
+      "section": "F - Trombone Solo"
+    },
+    {
+      "measure": 185,
+      "tick": 7418880,
+      "time_sec": 158.887416,
+      "meter": "4/4",
+      "bpm": 281.0,
+      "section": "G - Swing"
+    },
+    {
+      "measure": 186,
+      "tick": 7459200,
+      "time_sec": 159.741508,
+      "meter": "4/4",
+      "bpm": 281.0,
+      "section": "G - Swing"
+    },
+    {
+      "measure": 187,
+      "tick": 7499520,
+      "time_sec": 160.5956,
+      "meter": "4/4",
+      "bpm": 281.0,
+      "section": "G - Swing"
+    },
+    {
+      "measure": 188,
+      "tick": 7539840,
+      "time_sec": 161.449692,
+      "meter": "4/4",
+      "bpm": 281.0,
+      "section": "G - Swing"
+    },
+    {
+      "measure": 189,
+      "tick": 7580160,
+      "time_sec": 162.303784,
+      "meter": "4/4",
+      "bpm": 281.0,
+      "section": "G - Swing"
+    },
+    {
+      "measure": 190,
+      "tick": 7620480,
+      "time_sec": 163.157876,
+      "meter": "4/4",
+      "bpm": 281.0,
+      "section": "G - Swing"
+    },
+    {
+      "measure": 191,
+      "tick": 7660800,
+      "time_sec": 164.011968,
+      "meter": "4/4",
+      "bpm": 281.0,
+      "section": "G - Swing"
+    },
+    {
+      "measure": 192,
+      "tick": 7701120,
+      "time_sec": 164.86606,
+      "meter": "4/4",
+      "bpm": 281.0,
+      "section": "G - Swing"
+    },
+    {
+      "measure": 193,
+      "tick": 7741440,
+      "time_sec": 165.72015199999998,
+      "meter": "4/4",
+      "bpm": 281.0,
+      "section": "G - Swing"
+    },
+    {
+      "measure": 194,
+      "tick": 7781760,
+      "time_sec": 166.57424400000002,
+      "meter": "4/4",
+      "bpm": 281.0,
+      "section": "G - Swing"
+    },
+    {
+      "measure": 195,
+      "tick": 7822080,
+      "time_sec": 167.428336,
+      "meter": "4/4",
+      "bpm": 281.0,
+      "section": "G - Swing"
+    },
+    {
+      "measure": 196,
+      "tick": 7862400,
+      "time_sec": 168.28242799999998,
+      "meter": "4/4",
+      "bpm": 281.0,
+      "section": "G - Swing"
+    },
+    {
+      "measure": 197,
+      "tick": 7902720,
+      "time_sec": 169.13652000000002,
+      "meter": "4/4",
+      "bpm": 281.0,
+      "section": "G - Swing"
+    },
+    {
+      "measure": 198,
+      "tick": 7943040,
+      "time_sec": 169.990612,
+      "meter": "4/4",
+      "bpm": 281.0,
+      "section": "G - Swing"
+    },
+    {
+      "measure": 199,
+      "tick": 7983360,
+      "time_sec": 170.844704,
+      "meter": "4/4",
+      "bpm": 281.0,
+      "section": "G - Swing"
+    },
+    {
+      "measure": 200,
+      "tick": 8023680,
+      "time_sec": 171.69879600000002,
+      "meter": "4/4",
+      "bpm": 281.0,
+      "section": "G - Swing"
+    },
+    {
+      "measure": 201,
+      "tick": 8064000,
+      "time_sec": 172.552888,
+      "meter": "4/4",
+      "bpm": 281.0,
+      "section": "G - Swing"
+    },
+    {
+      "measure": 202,
+      "tick": 8104320,
+      "time_sec": 173.40698,
+      "meter": "4/4",
+      "bpm": 281.0,
+      "section": "G - Swing"
+    },
+    {
+      "measure": 203,
+      "tick": 8144640,
+      "time_sec": 174.261072,
+      "meter": "4/4",
+      "bpm": 281.0,
+      "section": "G - Swing"
+    },
+    {
+      "measure": 204,
+      "tick": 8184960,
+      "time_sec": 175.115164,
+      "meter": "4/4",
+      "bpm": 281.0,
+      "section": "G - Swing"
+    },
+    {
+      "measure": 205,
+      "tick": 8225280,
+      "time_sec": 175.969256,
+      "meter": "4/4",
+      "bpm": 281.0,
+      "section": "G - Swing"
+    },
+    {
+      "measure": 206,
+      "tick": 8265600,
+      "time_sec": 176.823348,
+      "meter": "4/4",
+      "bpm": 281.0,
+      "section": "G - Swing"
+    },
+    {
+      "measure": 207,
+      "tick": 8305920,
+      "time_sec": 177.67744,
+      "meter": "4/4",
+      "bpm": 281.0,
+      "section": "G - Swing"
+    },
+    {
+      "measure": 208,
+      "tick": 8346240,
+      "time_sec": 178.531532,
+      "meter": "4/4",
+      "bpm": 281.0,
+      "section": "G - Swing"
+    },
+    {
+      "measure": 209,
+      "tick": 8386560,
+      "time_sec": 179.385624,
+      "meter": "4/4",
+      "bpm": 281.0,
+      "section": "G - Swing"
+    },
+    {
+      "measure": 210,
+      "tick": 8426880,
+      "time_sec": 180.239716,
+      "meter": "4/4",
+      "bpm": 281.0,
+      "section": "G - Swing"
+    },
+    {
+      "measure": 211,
+      "tick": 8467200,
+      "time_sec": 181.093808,
+      "meter": "4/4",
+      "bpm": 281.0,
+      "section": "G - Swing"
+    },
+    {
+      "measure": 212,
+      "tick": 8507520,
+      "time_sec": 181.9479,
+      "meter": "4/4",
+      "bpm": 281.0,
+      "section": "G - Swing"
+    },
+    {
+      "measure": 213,
+      "tick": 8547840,
+      "time_sec": 182.80199199999998,
+      "meter": "4/4",
+      "bpm": 281.0,
+      "section": "G - Swing"
+    },
+    {
+      "measure": 214,
+      "tick": 8588160,
+      "time_sec": 183.65608400000002,
+      "meter": "4/4",
+      "bpm": 281.0,
+      "section": "G - Swing"
+    },
+    {
+      "measure": 215,
+      "tick": 8628480,
+      "time_sec": 184.510176,
+      "meter": "4/4",
+      "bpm": 281.0,
+      "section": "G - Swing"
+    },
+    {
+      "measure": 216,
+      "tick": 8668800,
+      "time_sec": 185.36426799999998,
+      "meter": "4/4",
+      "bpm": 281.0,
+      "section": "G - Swing"
+    },
+    {
+      "measure": 217,
+      "tick": 8709120,
+      "time_sec": 186.21836000000002,
+      "meter": "4/4",
+      "bpm": 281.0,
+      "section": "G - Swing"
+    },
+    {
+      "measure": 218,
+      "tick": 8749440,
+      "time_sec": 187.072452,
+      "meter": "4/4",
+      "bpm": 281.0,
+      "section": "G - Swing"
+    },
+    {
+      "measure": 219,
+      "tick": 8789760,
+      "time_sec": 187.926544,
+      "meter": "4/4",
+      "bpm": 281.0,
+      "section": "G - Swing"
+    },
+    {
+      "measure": 220,
+      "tick": 8830080,
+      "time_sec": 188.780636,
+      "meter": "4/4",
+      "bpm": 281.0,
+      "section": "G - Swing"
+    },
+    {
+      "measure": 221,
+      "tick": 8870400,
+      "time_sec": 189.634728,
+      "meter": "4/4",
+      "bpm": 281.0,
+      "section": "G - Swing"
+    },
+    {
+      "measure": 222,
+      "tick": 8910720,
+      "time_sec": 190.48882,
+      "meter": "4/4",
+      "bpm": 281.0,
+      "section": "G - Swing"
+    },
+    {
+      "measure": 223,
+      "tick": 8951040,
+      "time_sec": 191.342912,
+      "meter": "4/4",
+      "bpm": 281.0,
+      "section": "H - Straight Eighths"
+    },
+    {
+      "measure": 224,
+      "tick": 8991360,
+      "time_sec": 192.197004,
+      "meter": "4/4",
+      "bpm": 281.0,
+      "section": "H - Straight Eighths"
+    },
+    {
+      "measure": 225,
+      "tick": 9031680,
+      "time_sec": 193.051096,
+      "meter": "4/4",
+      "bpm": 281.0,
+      "section": "H - Straight Eighths"
+    },
+    {
+      "measure": 226,
+      "tick": 9072000,
+      "time_sec": 193.905188,
+      "meter": "4/4",
+      "bpm": 281.0,
+      "section": "H - Straight Eighths"
+    },
+    {
+      "measure": 227,
+      "tick": 9112320,
+      "time_sec": 194.75928,
+      "meter": "4/4",
+      "bpm": 281.0,
+      "section": "H - Straight Eighths"
+    },
+    {
+      "measure": 228,
+      "tick": 9152640,
+      "time_sec": 195.613372,
+      "meter": "4/4",
+      "bpm": 281.0,
+      "section": "H - Straight Eighths"
+    },
+    {
+      "measure": 229,
+      "tick": 9192960,
+      "time_sec": 196.467464,
+      "meter": "4/4",
+      "bpm": 281.0,
+      "section": "H - Straight Eighths"
+    },
+    {
+      "measure": 230,
+      "tick": 9233280,
+      "time_sec": 197.321556,
+      "meter": "4/4",
+      "bpm": 281.0,
+      "section": "H - Straight Eighths"
+    },
+    {
+      "measure": 231,
+      "tick": 9273600,
+      "time_sec": 198.175648,
+      "meter": "4/4",
+      "bpm": 281.0,
+      "section": "H - Straight Eighths"
+    },
+    {
+      "measure": 232,
+      "tick": 9313920,
+      "time_sec": 199.02974,
+      "meter": "4/4",
+      "bpm": 281.0,
+      "section": "H - Straight Eighths"
+    },
+    {
+      "measure": 233,
+      "tick": 9354240,
+      "time_sec": 199.883832,
+      "meter": "4/4",
+      "bpm": 281.0,
+      "section": "H - Straight Eighths"
+    },
+    {
+      "measure": 234,
+      "tick": 9394560,
+      "time_sec": 200.737924,
+      "meter": "4/4",
+      "bpm": 281.0,
+      "section": "H - Straight Eighths"
+    },
+    {
+      "measure": 235,
+      "tick": 9434880,
+      "time_sec": 201.592016,
+      "meter": "4/4",
+      "bpm": 281.0,
+      "section": "H - Straight Eighths"
+    },
+    {
+      "measure": 236,
+      "tick": 9475200,
+      "time_sec": 202.446108,
+      "meter": "4/4",
+      "bpm": 281.0,
+      "section": "H - Straight Eighths"
+    },
+    {
+      "measure": 237,
+      "tick": 9515520,
+      "time_sec": 203.3002,
+      "meter": "4/4",
+      "bpm": 281.0,
+      "section": "H - Straight Eighths"
+    },
+    {
+      "measure": 238,
+      "tick": 9555840,
+      "time_sec": 204.154292,
+      "meter": "4/4",
+      "bpm": 281.0,
+      "section": "H - Straight Eighths"
+    },
+    {
+      "measure": 239,
+      "tick": 9596160,
+      "time_sec": 205.008384,
+      "meter": "4/4",
+      "bpm": 281.0,
+      "section": "I - Trombone Solo End"
+    },
+    {
+      "measure": 240,
+      "tick": 9636480,
+      "time_sec": 205.862476,
+      "meter": "4/4",
+      "bpm": 281.0,
+      "section": "I - Trombone Solo End"
+    },
+    {
+      "measure": 241,
+      "tick": 9676800,
+      "time_sec": 206.716568,
+      "meter": "4/4",
+      "bpm": 281.0,
+      "section": "I - Trombone Solo End"
+    },
+    {
+      "measure": 242,
+      "tick": 9717120,
+      "time_sec": 207.57066,
+      "meter": "4/4",
+      "bpm": 281.0,
+      "section": "I - Trombone Solo End"
+    },
+    {
+      "measure": 243,
+      "tick": 9757440,
+      "time_sec": 208.424752,
+      "meter": "4/4",
+      "bpm": 281.0,
+      "section": "I - Trombone Solo End"
+    },
+    {
+      "measure": 244,
+      "tick": 9797760,
+      "time_sec": 209.278844,
+      "meter": "4/4",
+      "bpm": 281.0,
+      "section": "I - Trombone Solo End"
+    },
+    {
+      "measure": 245,
+      "tick": 9838080,
+      "time_sec": 210.132936,
+      "meter": "4/4",
+      "bpm": 281.0,
+      "section": "I - Trombone Solo End"
+    },
+    {
+      "measure": 246,
+      "tick": 9878400,
+      "time_sec": 210.987028,
+      "meter": "4/4",
+      "bpm": 281.0,
+      "section": "I - Trombone Solo End"
+    },
+    {
+      "measure": 247,
+      "tick": 9918720,
+      "time_sec": 211.84112,
+      "meter": "4/4",
+      "bpm": 281.0,
+      "section": "I - Trombone Solo End"
+    },
+    {
+      "measure": 248,
+      "tick": 9959040,
+      "time_sec": 212.695212,
+      "meter": "4/4",
+      "bpm": 281.0,
+      "section": "I - Trombone Solo End"
+    },
+    {
+      "measure": 249,
+      "tick": 9999360,
+      "time_sec": 213.549304,
+      "meter": "4/4",
+      "bpm": 281.0,
+      "section": "I - Trombone Solo End"
+    },
+    {
+      "measure": 250,
+      "tick": 10039680,
+      "time_sec": 214.403396,
+      "meter": "4/4",
+      "bpm": 281.0,
+      "section": "I - Trombone Solo End"
+    },
+    {
+      "measure": 251,
+      "tick": 10080000,
+      "time_sec": 215.257488,
+      "meter": "4/4",
+      "bpm": 281.0,
+      "section": "I - Trombone Solo End"
+    },
+    {
+      "measure": 252,
+      "tick": 10120320,
+      "time_sec": 216.11158,
+      "meter": "4/4",
+      "bpm": 281.0,
+      "section": "I - Trombone Solo End"
+    },
+    {
+      "measure": 253,
+      "tick": 10160640,
+      "time_sec": 216.965672,
+      "meter": "4/4",
+      "bpm": 281.0,
+      "section": "I - Trombone Solo End"
+    },
+    {
+      "measure": 254,
+      "tick": 10200960,
+      "time_sec": 217.819764,
+      "meter": "4/4",
+      "bpm": 281.0,
+      "section": "I - Trombone Solo End"
+    },
+    {
+      "measure": 255,
+      "tick": 10241280,
+      "time_sec": 218.673856,
+      "meter": "4/4",
+      "bpm": 281.0,
+      "section": "I - Trombone Solo End"
+    },
+    {
+      "measure": 256,
+      "tick": 10281600,
+      "time_sec": 219.527948,
+      "meter": "4/4",
+      "bpm": 281.0,
+      "section": "I - Trombone Solo End"
+    },
+    {
+      "measure": 257,
+      "tick": 10321920,
+      "time_sec": 220.38204,
+      "meter": "4/4",
+      "bpm": 281.0,
+      "section": "I - Trombone Solo End"
+    },
+    {
+      "measure": 258,
+      "tick": 10362240,
+      "time_sec": 221.236132,
+      "meter": "4/4",
+      "bpm": 281.0,
+      "section": "I - Trombone Solo End"
+    },
+    {
+      "measure": 259,
+      "tick": 10402560,
+      "time_sec": 222.090224,
+      "meter": "4/4",
+      "bpm": 279.0,
+      "section": "J"
+    },
+    {
+      "measure": 260,
+      "tick": 10442880,
+      "time_sec": 222.95044000000001,
+      "meter": "4/4",
+      "bpm": 279.0,
+      "section": "J"
+    },
+    {
+      "measure": 261,
+      "tick": 10483200,
+      "time_sec": 223.810656,
+      "meter": "4/4",
+      "bpm": 279.0,
+      "section": "J"
+    },
+    {
+      "measure": 262,
+      "tick": 10523520,
+      "time_sec": 224.670872,
+      "meter": "4/4",
+      "bpm": 279.0,
+      "section": "J"
+    },
+    {
+      "measure": 263,
+      "tick": 10563840,
+      "time_sec": 225.531088,
+      "meter": "4/4",
+      "bpm": 279.0,
+      "section": "J"
+    },
+    {
+      "measure": 264,
+      "tick": 10604160,
+      "time_sec": 226.39130400000002,
+      "meter": "4/4",
+      "bpm": 279.0,
+      "section": "J"
+    },
+    {
+      "measure": 265,
+      "tick": 10644480,
+      "time_sec": 227.25152,
+      "meter": "4/4",
+      "bpm": 279.0,
+      "section": "J"
+    },
+    {
+      "measure": 266,
+      "tick": 10684800,
+      "time_sec": 228.111736,
+      "meter": "4/4",
+      "bpm": 279.0,
+      "section": "J"
+    },
+    {
+      "measure": 267,
+      "tick": 10725120,
+      "time_sec": 228.97195200000002,
+      "meter": "4/4",
+      "bpm": 279.0,
+      "section": "J"
+    },
+    {
+      "measure": 268,
+      "tick": 10765440,
+      "time_sec": 229.832168,
+      "meter": "4/4",
+      "bpm": 279.0,
+      "section": "J"
+    },
+    {
+      "measure": 269,
+      "tick": 10805760,
+      "time_sec": 230.692384,
+      "meter": "4/4",
+      "bpm": 279.0,
+      "section": "J"
+    },
+    {
+      "measure": 270,
+      "tick": 10846080,
+      "time_sec": 231.5526,
+      "meter": "4/4",
+      "bpm": 279.0,
+      "section": "J"
+    },
+    {
+      "measure": 271,
+      "tick": 10886400,
+      "time_sec": 232.41281600000002,
+      "meter": "4/4",
+      "bpm": 279.0,
+      "section": "J"
+    },
+    {
+      "measure": 272,
+      "tick": 10926720,
+      "time_sec": 233.273032,
+      "meter": "4/4",
+      "bpm": 279.0,
+      "section": "J"
+    },
+    {
+      "measure": 273,
+      "tick": 10967040,
+      "time_sec": 234.133248,
+      "meter": "4/4",
+      "bpm": 279.0,
+      "section": "J"
+    },
+    {
+      "measure": 274,
+      "tick": 11007360,
+      "time_sec": 234.99346400000002,
+      "meter": "4/4",
+      "bpm": 279.0,
+      "section": "J"
+    },
+    {
+      "measure": 275,
+      "tick": 11047680,
+      "time_sec": 235.85368,
+      "meter": "4/4",
+      "bpm": 279.0,
+      "section": "J"
+    },
+    {
+      "measure": 276,
+      "tick": 11088000,
+      "time_sec": 236.713896,
+      "meter": "4/4",
+      "bpm": 279.0,
+      "section": "J"
+    },
+    {
+      "measure": 277,
+      "tick": 11128320,
+      "time_sec": 237.574112,
+      "meter": "4/4",
+      "bpm": 279.0,
+      "section": "J"
+    },
+    {
+      "measure": 278,
+      "tick": 11168640,
+      "time_sec": 238.434328,
+      "meter": "4/4",
+      "bpm": 279.0,
+      "section": "J"
+    },
+    {
+      "measure": 279,
+      "tick": 11208960,
+      "time_sec": 239.294544,
+      "meter": "4/4",
+      "bpm": 279.0,
+      "section": "J"
+    },
+    {
+      "measure": 280,
+      "tick": 11249280,
+      "time_sec": 240.15476,
+      "meter": "4/4",
+      "bpm": 279.0,
+      "section": "J"
+    },
+    {
+      "measure": 281,
+      "tick": 11289600,
+      "time_sec": 241.01497600000002,
+      "meter": "4/4",
+      "bpm": 279.0,
+      "section": "J"
+    },
+    {
+      "measure": 282,
+      "tick": 11329920,
+      "time_sec": 241.875192,
+      "meter": "4/4",
+      "bpm": 279.0,
+      "section": "J"
+    },
+    {
+      "measure": 283,
+      "tick": 11370240,
+      "time_sec": 242.735408,
+      "meter": "4/4",
+      "bpm": 279.0,
+      "section": "J"
+    },
+    {
+      "measure": 284,
+      "tick": 11410560,
+      "time_sec": 243.59562400000002,
+      "meter": "4/4",
+      "bpm": 279.0,
+      "section": "J"
+    },
+    {
+      "measure": 285,
+      "tick": 11450880,
+      "time_sec": 244.45584,
+      "meter": "4/4",
+      "bpm": 279.0,
+      "section": "J"
+    },
+    {
+      "measure": 286,
+      "tick": 11491200,
+      "time_sec": 245.316056,
+      "meter": "4/4",
+      "bpm": 279.0,
+      "section": "J"
+    },
+    {
+      "measure": 287,
+      "tick": 11531520,
+      "time_sec": 246.176272,
+      "meter": "4/4",
+      "bpm": 279.0,
+      "section": "J"
+    },
+    {
+      "measure": 288,
+      "tick": 11571840,
+      "time_sec": 247.03648800000002,
+      "meter": "4/4",
+      "bpm": 279.0,
+      "section": "J"
+    },
+    {
+      "measure": 289,
+      "tick": 11612160,
+      "time_sec": 247.896704,
+      "meter": "4/4",
+      "bpm": 279.0,
+      "section": "J"
+    },
+    {
+      "measure": 290,
+      "tick": 11652480,
+      "time_sec": 248.75692,
+      "meter": "4/4",
+      "bpm": 273.0,
+      "section": "J"
+    },
+    {
+      "measure": 291,
+      "tick": 11692800,
+      "time_sec": 249.63604,
+      "meter": "4/4",
+      "bpm": 273.0,
+      "section": "J"
+    },
+    {
+      "measure": 292,
+      "tick": 11733120,
+      "time_sec": 250.51516,
+      "meter": "4/4",
+      "bpm": 273.0,
+      "section": "J"
+    },
+    {
+      "measure": 293,
+      "tick": 11773440,
+      "time_sec": 251.39428,
+      "meter": "4/4",
+      "bpm": 273.0,
+      "section": "J"
+    },
+    {
+      "measure": 294,
+      "tick": 11813760,
+      "time_sec": 252.2734,
+      "meter": "4/4",
+      "bpm": 273.0,
+      "section": "J"
+    },
+    {
+      "measure": 295,
+      "tick": 11854080,
+      "time_sec": 253.15252,
+      "meter": "2/4",
+      "bpm": 273.0,
+      "section": "J"
+    },
+    {
+      "measure": 296,
+      "tick": 11874240,
+      "time_sec": 253.59208,
+      "meter": "4/4",
+      "bpm": 273.0,
+      "section": "J"
+    },
+    {
+      "measure": 297,
+      "tick": 11914560,
+      "time_sec": 254.4712,
+      "meter": "4/4",
+      "bpm": 273.0,
+      "section": "J"
+    },
+    {
+      "measure": 298,
+      "tick": 11954880,
+      "time_sec": 255.35032,
+      "meter": "4/4",
+      "bpm": 273.0,
+      "section": "J"
+    },
+    {
+      "measure": 299,
+      "tick": 11995200,
+      "time_sec": 256.22944,
+      "meter": "4/4",
+      "bpm": 273.0,
+      "section": "J"
+    },
+    {
+      "measure": 300,
+      "tick": 12035520,
+      "time_sec": 257.10856,
+      "meter": "4/4",
+      "bpm": 273.0,
+      "section": "J"
+    },
+    {
+      "measure": 301,
+      "tick": 12075840,
+      "time_sec": 257.98768,
+      "meter": "4/4",
+      "bpm": 273.0,
+      "section": "J"
+    },
+    {
+      "measure": 302,
+      "tick": 12116160,
+      "time_sec": 258.8668,
+      "meter": "4/4",
+      "bpm": 273.0,
+      "section": "J"
+    },
+    {
+      "measure": 303,
+      "tick": 12156480,
+      "time_sec": 259.74592,
+      "meter": "4/4",
+      "bpm": 273.0,
+      "section": "J"
+    },
+    {
+      "measure": 304,
+      "tick": 12196800,
+      "time_sec": 260.62504,
+      "meter": "4/4",
+      "bpm": 273.0,
+      "section": "J"
+    },
+    {
+      "measure": 305,
+      "tick": 12237120,
+      "time_sec": 261.50416,
+      "meter": "4/4",
+      "bpm": 273.0,
+      "section": "J"
+    },
+    {
+      "measure": 306,
+      "tick": 12277440,
+      "time_sec": 262.38328,
+      "meter": "4/4",
+      "bpm": 273.0,
+      "section": "J"
+    },
+    {
+      "measure": 307,
+      "tick": 12317760,
+      "time_sec": 263.2624,
+      "meter": "4/4",
+      "bpm": 273.0,
+      "section": "J"
+    },
+    {
+      "measure": 308,
+      "tick": 12358080,
+      "time_sec": 264.14152,
+      "meter": "4/4",
+      "bpm": 273.0,
+      "section": "J"
+    },
+    {
+      "measure": 309,
+      "tick": 12398400,
+      "time_sec": 265.02064,
+      "meter": "4/4",
+      "bpm": 273.0,
+      "section": "J"
+    },
+    {
+      "measure": 310,
+      "tick": 12438720,
+      "time_sec": 265.89976,
+      "meter": "4/4",
+      "bpm": 273.0,
+      "section": "J"
+    },
+    {
+      "measure": 311,
+      "tick": 12479040,
+      "time_sec": 266.77888,
+      "meter": "4/4",
+      "bpm": 273.0,
+      "section": "J"
+    },
+    {
+      "measure": 312,
+      "tick": 12519360,
+      "time_sec": 267.658,
+      "meter": "4/4",
+      "bpm": 273.0,
+      "section": "J"
+    },
+    {
+      "measure": 313,
+      "tick": 12559680,
+      "time_sec": 268.53712,
+      "meter": "4/4",
+      "bpm": 273.0,
+      "section": "J"
+    },
+    {
+      "measure": 314,
+      "tick": 12600000,
+      "time_sec": 269.41624,
+      "meter": "4/4",
+      "bpm": 273.0,
+      "section": "J"
+    },
+    {
+      "measure": 315,
+      "tick": 12640320,
+      "time_sec": 270.29536,
+      "meter": "4/4",
+      "bpm": 290.0,
+      "section": "K - Drum Cadenza"
+    },
+    {
+      "measure": 316,
+      "tick": 12680640,
+      "time_sec": 271.122948,
+      "meter": "4/4",
+      "bpm": 290.0,
+      "section": "K - Drum Cadenza"
+    },
+    {
+      "measure": 317,
+      "tick": 12720960,
+      "time_sec": 271.950536,
+      "meter": "4/4",
+      "bpm": 290.0,
+      "section": "K - Drum Cadenza"
+    },
+    {
+      "measure": 318,
+      "tick": 12761280,
+      "time_sec": 272.778124,
+      "meter": "4/4",
+      "bpm": 290.0,
+      "section": "K - Drum Cadenza"
+    },
+    {
+      "measure": 319,
+      "tick": 12801600,
+      "time_sec": 273.60571200000004,
+      "meter": "4/4",
+      "bpm": 290.0,
+      "section": "K - Drum Cadenza"
+    },
+    {
+      "measure": 320,
+      "tick": 12841920,
+      "time_sec": 274.43330000000003,
+      "meter": "4/4",
+      "bpm": 290.0,
+      "section": "K - Drum Cadenza"
+    },
+    {
+      "measure": 321,
+      "tick": 12882240,
+      "time_sec": 275.260888,
+      "meter": "4/4",
+      "bpm": 290.0,
+      "section": "K - Drum Cadenza"
+    },
+    {
+      "measure": 322,
+      "tick": 12922560,
+      "time_sec": 276.088476,
+      "meter": "4/4",
+      "bpm": 290.0,
+      "section": "K - Drum Cadenza"
+    },
+    {
+      "measure": 323,
+      "tick": 12962880,
+      "time_sec": 276.916064,
+      "meter": "4/4",
+      "bpm": 290.0,
+      "section": "K - Drum Cadenza"
+    },
+    {
+      "measure": 324,
+      "tick": 13003200,
+      "time_sec": 277.743652,
+      "meter": "4/4",
+      "bpm": 290.0,
+      "section": "K - Drum Cadenza"
+    },
+    {
+      "measure": 325,
+      "tick": 13043520,
+      "time_sec": 278.57124,
+      "meter": "4/4",
+      "bpm": 290.0,
+      "section": "K - Drum Cadenza"
+    },
+    {
+      "measure": 326,
+      "tick": 13083840,
+      "time_sec": 279.39882800000004,
+      "meter": "4/4",
+      "bpm": 290.0,
+      "section": "K - Drum Cadenza"
+    },
+    {
+      "measure": 327,
+      "tick": 13124160,
+      "time_sec": 280.22641600000003,
+      "meter": "4/4",
+      "bpm": 290.0,
+      "section": "K - Drum Cadenza"
+    },
+    {
+      "measure": 328,
+      "tick": 13164480,
+      "time_sec": 281.054004,
+      "meter": "4/4",
+      "bpm": 290.0,
+      "section": "K - Drum Cadenza"
+    },
+    {
+      "measure": 329,
+      "tick": 13204800,
+      "time_sec": 281.881592,
+      "meter": "4/4",
+      "bpm": 290.0,
+      "section": "K - Drum Cadenza"
+    },
+    {
+      "measure": 330,
+      "tick": 13245120,
+      "time_sec": 282.70918,
+      "meter": "4/4",
+      "bpm": 290.0,
+      "section": "K - Drum Cadenza"
+    },
+    {
+      "measure": 331,
+      "tick": 13285440,
+      "time_sec": 283.536768,
+      "meter": "4/4",
+      "bpm": 290.0,
+      "section": "K - Drum Cadenza"
+    },
+    {
+      "measure": 332,
+      "tick": 13325760,
+      "time_sec": 284.36435600000004,
+      "meter": "4/4",
+      "bpm": 290.0,
+      "section": "K - Drum Cadenza"
+    },
+    {
+      "measure": 333,
+      "tick": 13366080,
+      "time_sec": 285.19194400000003,
+      "meter": "4/4",
+      "bpm": 290.0,
+      "section": "K - Drum Cadenza"
+    },
+    {
+      "measure": 334,
+      "tick": 13406400,
+      "time_sec": 286.019532,
+      "meter": "4/4",
+      "bpm": 290.0,
+      "section": "K - Drum Cadenza"
+    },
+    {
+      "measure": 335,
+      "tick": 13446720,
+      "time_sec": 286.84712,
+      "meter": "4/4",
+      "bpm": 290.0,
+      "section": "K - Drum Cadenza"
+    },
+    {
+      "measure": 336,
+      "tick": 13487040,
+      "time_sec": 287.674708,
+      "meter": "4/4",
+      "bpm": 290.0,
+      "section": "K - Drum Cadenza"
+    },
+    {
+      "measure": 337,
+      "tick": 13527360,
+      "time_sec": 288.502296,
+      "meter": "4/4",
+      "bpm": 290.0,
+      "section": "K - Drum Cadenza"
+    },
+    {
+      "measure": 338,
+      "tick": 13567680,
+      "time_sec": 289.329884,
+      "meter": "4/4",
+      "bpm": 290.0,
+      "section": "K - Drum Cadenza"
+    },
+    {
+      "measure": 339,
+      "tick": 13608000,
+      "time_sec": 290.15747200000004,
+      "meter": "4/4",
+      "bpm": 290.0,
+      "section": "K - Drum Cadenza"
+    },
+    {
+      "measure": 340,
+      "tick": 13648320,
+      "time_sec": 290.98506000000003,
+      "meter": "4/4",
+      "bpm": 290.0,
+      "section": "K - Drum Cadenza"
+    },
+    {
+      "measure": 341,
+      "tick": 13688640,
+      "time_sec": 291.812648,
+      "meter": "4/4",
+      "bpm": 290.0,
+      "section": "K - Drum Cadenza"
+    },
+    {
+      "measure": 342,
+      "tick": 13728960,
+      "time_sec": 292.640236,
+      "meter": "4/4",
+      "bpm": 290.0,
+      "section": "K - Drum Cadenza"
+    },
+    {
+      "measure": 343,
+      "tick": 13769280,
+      "time_sec": 293.467824,
+      "meter": "4/4",
+      "bpm": 290.0,
+      "section": "K - Drum Cadenza"
+    },
+    {
+      "measure": 344,
+      "tick": 13809600,
+      "time_sec": 294.295412,
+      "meter": "4/4",
+      "bpm": 290.0,
+      "section": "K - Drum Cadenza"
+    },
+    {
+      "measure": 345,
+      "tick": 13849920,
+      "time_sec": 295.123,
+      "meter": "4/4",
+      "bpm": 290.0,
+      "section": "K - Drum Cadenza"
+    },
+    {
+      "measure": 346,
+      "tick": 13890240,
+      "time_sec": 295.95058800000004,
+      "meter": "4/4",
+      "bpm": 290.0,
+      "section": "K - Drum Cadenza"
+    },
+    {
+      "measure": 347,
+      "tick": 13930560,
+      "time_sec": 296.77817600000003,
+      "meter": "4/4",
+      "bpm": 290.0,
+      "section": "K - Drum Cadenza"
+    },
+    {
+      "measure": 348,
+      "tick": 13970880,
+      "time_sec": 297.605764,
+      "meter": "4/4",
+      "bpm": 290.0,
+      "section": "K - Drum Cadenza"
+    },
+    {
+      "measure": 349,
+      "tick": 14011200,
+      "time_sec": 298.433352,
+      "meter": "4/4",
+      "bpm": 290.0,
+      "section": "K - Drum Cadenza"
+    },
+    {
+      "measure": 350,
+      "tick": 14051520,
+      "time_sec": 299.26094,
+      "meter": "4/4",
+      "bpm": 290.0,
+      "section": "K - Drum Cadenza"
+    },
+    {
+      "measure": 351,
+      "tick": 14091840,
+      "time_sec": 300.088528,
+      "meter": "4/4",
+      "bpm": 290.0,
+      "section": "K - Drum Cadenza"
+    },
+    {
+      "measure": 352,
+      "tick": 14132160,
+      "time_sec": 300.916116,
+      "meter": "4/4",
+      "bpm": 290.0,
+      "section": "K - Drum Cadenza"
+    },
+    {
+      "measure": 353,
+      "tick": 14172480,
+      "time_sec": 301.74370400000004,
+      "meter": "4/4",
+      "bpm": 290.0,
+      "section": "K - Drum Cadenza"
+    },
+    {
+      "measure": 354,
+      "tick": 14212800,
+      "time_sec": 302.571292,
+      "meter": "4/4",
+      "bpm": 290.0,
+      "section": "K - Drum Cadenza"
+    },
+    {
+      "measure": 355,
+      "tick": 14253120,
+      "time_sec": 303.39888,
+      "meter": "4/4",
+      "bpm": 290.0,
+      "section": "K - Drum Cadenza"
+    },
+    {
+      "measure": 356,
+      "tick": 14293440,
+      "time_sec": 304.226468,
+      "meter": "4/4",
+      "bpm": 290.0,
+      "section": "K - Drum Cadenza"
+    },
+    {
+      "measure": 357,
+      "tick": 14333760,
+      "time_sec": 305.054056,
+      "meter": "4/4",
+      "bpm": 290.0,
+      "section": "K - Drum Cadenza"
+    },
+    {
+      "measure": 358,
+      "tick": 14374080,
+      "time_sec": 305.881644,
+      "meter": "4/4",
+      "bpm": 290.0,
+      "section": "K - Drum Cadenza"
+    },
+    {
+      "measure": 359,
+      "tick": 14414400,
+      "time_sec": 306.70923200000004,
+      "meter": "4/4",
+      "bpm": 290.0,
+      "section": "K - Drum Cadenza"
+    },
+    {
+      "measure": 360,
+      "tick": 14454720,
+      "time_sec": 307.53682000000003,
+      "meter": "4/4",
+      "bpm": 290.0,
+      "section": "K - Drum Cadenza"
+    },
+    {
+      "measure": 361,
+      "tick": 14495040,
+      "time_sec": 308.364408,
+      "meter": "4/4",
+      "bpm": 290.0,
+      "section": "K - Drum Cadenza"
+    },
+    {
+      "measure": 362,
+      "tick": 14535360,
+      "time_sec": 309.191996,
+      "meter": "4/4",
+      "bpm": 290.0,
+      "section": "K - Drum Cadenza"
+    },
+    {
+      "measure": 363,
+      "tick": 14575680,
+      "time_sec": 310.019584,
+      "meter": "4/4",
+      "bpm": 290.0,
+      "section": "K - Drum Cadenza"
+    },
+    {
+      "measure": 364,
+      "tick": 14616000,
+      "time_sec": 310.847172,
+      "meter": "4/4",
+      "bpm": 290.0,
+      "section": "K - Drum Cadenza"
+    },
+    {
+      "measure": 365,
+      "tick": 14656320,
+      "time_sec": 311.67476,
+      "meter": "4/4",
+      "bpm": 290.0,
+      "section": "K - Drum Cadenza"
+    },
+    {
+      "measure": 366,
+      "tick": 14696640,
+      "time_sec": 312.50234800000004,
+      "meter": "4/4",
+      "bpm": 290.0,
+      "section": "K - Drum Cadenza"
+    },
+    {
+      "measure": 367,
+      "tick": 14736960,
+      "time_sec": 313.32993600000003,
+      "meter": "4/4",
+      "bpm": 290.0,
+      "section": "K - Drum Cadenza"
+    },
+    {
+      "measure": 368,
+      "tick": 14777280,
+      "time_sec": 314.157524,
+      "meter": "4/4",
+      "bpm": 290.0,
+      "section": "K - Drum Cadenza"
+    },
+    {
+      "measure": 369,
+      "tick": 14817600,
+      "time_sec": 314.985112,
+      "meter": "4/4",
+      "bpm": 290.0,
+      "section": "K - Drum Cadenza"
+    },
+    {
+      "measure": 370,
+      "tick": 14857920,
+      "time_sec": 315.8127,
+      "meter": "4/4",
+      "bpm": 290.0,
+      "section": "K - Drum Cadenza"
+    },
+    {
+      "measure": 371,
+      "tick": 14898240,
+      "time_sec": 316.640288,
+      "meter": "4/4",
+      "bpm": 290.0,
+      "section": "K - Drum Cadenza"
+    },
+    {
+      "measure": 372,
+      "tick": 14938560,
+      "time_sec": 317.46787600000005,
+      "meter": "4/4",
+      "bpm": 290.0,
+      "section": "K - Drum Cadenza"
+    },
+    {
+      "measure": 373,
+      "tick": 14978880,
+      "time_sec": 318.29546400000004,
+      "meter": "4/4",
+      "bpm": 290.0,
+      "section": "K - Drum Cadenza"
+    },
+    {
+      "measure": 374,
+      "tick": 15019200,
+      "time_sec": 319.12305200000003,
+      "meter": "4/4",
+      "bpm": 290.0,
+      "section": "K - Drum Cadenza"
+    },
+    {
+      "measure": 375,
+      "tick": 15059520,
+      "time_sec": 319.95064,
+      "meter": "4/4",
+      "bpm": 290.0,
+      "section": "K - Drum Cadenza"
+    },
+    {
+      "measure": 376,
+      "tick": 15099840,
+      "time_sec": 320.778228,
+      "meter": "4/4",
+      "bpm": 290.0,
+      "section": "K - Drum Cadenza"
+    },
+    {
+      "measure": 377,
+      "tick": 15140160,
+      "time_sec": 321.605816,
+      "meter": "4/4",
+      "bpm": 290.0,
+      "section": "K - Drum Cadenza"
+    },
+    {
+      "measure": 378,
+      "tick": 15180480,
+      "time_sec": 322.433404,
+      "meter": "4/4",
+      "bpm": 290.0,
+      "section": "K - Drum Cadenza"
+    },
+    {
+      "measure": 379,
+      "tick": 15220800,
+      "time_sec": 323.260992,
+      "meter": "4/4",
+      "bpm": 370.0,
+      "section": "K - Drum Cadenza"
+    },
+    {
+      "measure": 380,
+      "tick": 15261120,
+      "time_sec": 323.90963999999997,
+      "meter": "4/4",
+      "bpm": 370.0,
+      "section": "K - Drum Cadenza"
+    },
+    {
+      "measure": 381,
+      "tick": 15301440,
+      "time_sec": 324.558288,
+      "meter": "4/4",
+      "bpm": 370.0,
+      "section": "K - Drum Cadenza"
+    },
+    {
+      "measure": 382,
+      "tick": 15341760,
+      "time_sec": 325.206936,
+      "meter": "4/4",
+      "bpm": 370.0,
+      "section": "K - Drum Cadenza"
+    },
+    {
+      "measure": 383,
+      "tick": 15382080,
+      "time_sec": 325.85558399999996,
+      "meter": "4/4",
+      "bpm": 370.0,
+      "section": "K - Drum Cadenza"
+    },
+    {
+      "measure": 384,
+      "tick": 15422400,
+      "time_sec": 326.504232,
+      "meter": "4/4",
+      "bpm": 370.0,
+      "section": "K - Drum Cadenza"
+    },
+    {
+      "measure": 385,
+      "tick": 15462720,
+      "time_sec": 327.15288,
+      "meter": "4/4",
+      "bpm": 370.0,
+      "section": "K - Drum Cadenza"
+    },
+    {
+      "measure": 386,
+      "tick": 15503040,
+      "time_sec": 327.80152799999996,
+      "meter": "4/4",
+      "bpm": 370.0,
+      "section": "K - Drum Cadenza"
+    },
+    {
+      "measure": 387,
+      "tick": 15543360,
+      "time_sec": 328.450176,
+      "meter": "4/4",
+      "bpm": 370.0,
+      "section": "K - Drum Cadenza"
+    },
+    {
+      "measure": 388,
+      "tick": 15583680,
+      "time_sec": 329.098824,
+      "meter": "4/4",
+      "bpm": 370.0,
+      "section": "K - Drum Cadenza"
+    },
+    {
+      "measure": 389,
+      "tick": 15624000,
+      "time_sec": 329.747472,
+      "meter": "4/4",
+      "bpm": 370.0,
+      "section": "K - Drum Cadenza"
+    },
+    {
+      "measure": 390,
+      "tick": 15664320,
+      "time_sec": 330.39612,
+      "meter": "4/4",
+      "bpm": 370.0,
+      "section": "K - Drum Cadenza"
+    },
+    {
+      "measure": 391,
+      "tick": 15704640,
+      "time_sec": 331.044768,
+      "meter": "4/4",
+      "bpm": 370.0,
+      "section": "K - Drum Cadenza"
+    },
+    {
+      "measure": 392,
+      "tick": 15744960,
+      "time_sec": 331.693416,
+      "meter": "4/4",
+      "bpm": 370.0,
+      "section": "K - Drum Cadenza"
+    },
+    {
+      "measure": 393,
+      "tick": 15785280,
+      "time_sec": 332.342064,
+      "meter": "4/4",
+      "bpm": 370.0,
+      "section": "K - Drum Cadenza"
+    },
+    {
+      "measure": 394,
+      "tick": 15825600,
+      "time_sec": 332.990712,
+      "meter": "4/4",
+      "bpm": 370.0,
+      "section": "K - Drum Cadenza"
+    },
+    {
+      "measure": 395,
+      "tick": 15865920,
+      "time_sec": 333.63936,
+      "meter": "4/4",
+      "bpm": 370.0,
+      "section": "K - Drum Cadenza"
+    },
+    {
+      "measure": 396,
+      "tick": 15906240,
+      "time_sec": 334.288008,
+      "meter": "4/4",
+      "bpm": 370.0,
+      "section": "K - Drum Cadenza"
+    }
+  ]
+}

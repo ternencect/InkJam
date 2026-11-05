@@ -1,0 +1,48 @@
+name: Publish InkJam preview
+
+on:
+  push:
+    branches: [main]
+    paths: ['site/**', 'scripts/**', '.github/workflows/pages.yml']
+  release:
+    types: [published]
+  workflow_dispatch:
+
+permissions:
+  contents: read
+
+concurrency:
+  group: inkjam-pages
+  cancel-in-progress: false
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v6
+        with:
+          ref: main
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.13'
+      - name: Download video, verify associations and build site
+        env:
+          GH_TOKEN: ${{ github.token }}
+        run: python3 scripts/build_site.py --download-release
+      - uses: actions/configure-pages@v5
+      - uses: actions/upload-pages-artifact@v4
+        with:
+          path: _site
+  deploy:
+    needs: build
+    runs-on: ubuntu-latest
+    permissions:
+      pages: write
+      id-token: write
+    environment:
+      name: github-pages
+      url: ${{ steps.deployment.outputs.page_url }}
+    steps:
+      - name: Deploy preview
+        id: deployment
+        uses: actions/deploy-pages@v4

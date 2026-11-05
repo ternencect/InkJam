@@ -1,0 +1,75 @@
+{
+  "schema_version": 1,
+  "path_base": "repository_root",
+  "works": [
+    {
+      "id": "caravan",
+      "title": "Caravan",
+      "category": "鼓演奏",
+      "scores": [
+        {
+          "id": "caravan-drums-v2",
+          "title": "截图转录鼓谱 v2",
+          "instrument": "drums",
+          "version": "v2",
+          "status": "current",
+          "measure_count": 396,
+          "source_revision": "Songsterr 10094471 / 用户截图",
+          "assets": {
+            "musicxml": {
+              "path": "output/drum-score/Caravan_v2.musicxml",
+              "sha256": "e5b0fbbb64e89054448025be1894489d34e9238ba1285a7d1bfaa24158e5f181"
+            },
+            "midi": {
+              "path": "output/drum-score/Caravan_v2.mid",
+              "sha256": "a0a78d97d0985c01daa512aef86bdde2b65f3be3c7f236d8dff8dd72e60ca822"
+            }
+          },
+          "association_path": "output/drum-score/association.json"
+        },
+        {
+          "id": "caravan-drums-pdf-v1",
+          "title": "早期 PDF 转录参考版",
+          "instrument": "drums",
+          "version": "pdf-v1",
+          "status": "reference",
+          "measure_count": 381,
+          "source_revision": "用户提供的 10 页 PDF",
+          "assets": {
+            "musicxml": {
+              "path": "output/caravan-transcription/Caravan.musicxml",
+              "sha256": "2700d6eaa4c5ce17bf448047c3356cbd6d4948f68a5ba480be00616e0501e70f"
+            },
+            "midi": {
+              "path": "output/caravan-transcription/Caravan.mid",
+              "sha256": "45fbe8ef77902a71946b3fcad0d52c5e8e4fc41f8195d929ad0ef74605bd51c6"
+            }
+          },
+          "association_path": "output/caravan-transcription/association.json"
+        }
+      ],
+      "performances": [
+        {
+          "id": "caravan-drums-full-v1",
+          "title": "全谱鼓演奏 v1",
+          "score_id": "caravan-drums-v2",
+          "score_sha256": "e5b0fbbb64e89054448025be1894489d34e9238ba1285a7d1bfaa24158e5f181",
+          "coverage": {
+            "first_measure": 1,
+            "last_measure": 396
+          },
+          "review_path": "output/caravan-performance/review.html",
+          "plan_path": "output/caravan-performance/performance.json",
+          "validation_path": "output/caravan-performance/validation.json",
+          "poster_path": "output/caravan-performance/poster.jpg",
+          "video_path": "output/caravan-performance/Caravan-full-1080p60.mp4",
+          "media_manifest_path": "output/caravan-performance/media.json",
+          "video_sha256": "e67ace193ce6d2a5dcf6e868bfca1b7f1f1545bfe59be9a334bf1b5610988c0a",
+          "duration_sec": 336.55,
+          "lead_in_sec": 1.5,
+          "fps": 60
+        }
+      ]
+    }
+  ]
+}

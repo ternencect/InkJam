@@ -1,0 +1,11 @@
+{
+  "release_tag": "caravan-preview-v1",
+  "filename": "Caravan-full-1080p60.mp4",
+  "sha256": "e67ace193ce6d2a5dcf6e868bfca1b7f1f1545bfe59be9a334bf1b5610988c0a",
+  "size_bytes": 94465623,
+  "work_id": "caravan",
+  "score_id": "caravan-drums-v2",
+  "performance_id": "caravan-drums-full-v1",
+  "catalog_path": "library/catalog.json",
+  "score_sha256": "e5b0fbbb64e89054448025be1894489d34e9238ba1285a7d1bfaa24158e5f181"
+}

@@ -1,0 +1,74 @@
+{
+  "release_tag": "caravan-preview-v1",
+  "video_path": "output/caravan-performance/Caravan-full-1080p60.mp4",
+  "files": {
+    ".nojekyll": {
+      "bytes": 0,
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    "index.html": {
+      "bytes": 261,
+      "sha256": "7bd835a65abd4267aecf2ee51f1201a8f27c3962925ae9e2d09014a2747af7ee"
+    },
+    "library/catalog.json": {
+      "bytes": 2755,
+      "sha256": "73595064c5cdff610ab570135d58513eb53cad7c9679133ec38f8585a4031694"
+    },
+    "output/caravan-performance/media.json": {
+      "bytes": 421,
+      "sha256": "e8b76502af4a435de20b648d53c415f88b4d0ee13f113426391dc5638fade77f"
+    },
+    "output/caravan-performance/performance.json": {
+      "bytes": 65396,
+      "sha256": "6417c93d2033a420521572c6586ec9f55c6daa84a1c1f05901ac31455a70bd7e"
+    },
+    "output/caravan-performance/poster.jpg": {
+      "bytes": 115011,
+      "sha256": "dc2e0b2b2dc4c0b999bc0861414cb3273a60ca3db5a706285d00465dcfab0312"
+    },
+    "output/caravan-performance/review.html": {
+      "bytes": 4530825,
+      "sha256": "9eac8e8ca83d1968bff121433ad907f3c79ffd337fac52046a3bacbb58273bc4"
+    },
+    "output/caravan-performance/validation.json": {
+      "bytes": 2461,
+      "sha256": "43396898ac4cabc8bf343f8623aa00fe54236bc02e20d8bbccf7cbeed7ee6b23"
+    },
+    "output/caravan-transcription/Caravan.mid": {
+      "bytes": 33142,
+      "sha256": "45fbe8ef77902a71946b3fcad0d52c5e8e4fc41f8195d929ad0ef74605bd51c6"
+    },
+    "output/caravan-transcription/Caravan.musicxml": {
+      "bytes": 1704621,
+      "sha256": "2700d6eaa4c5ce17bf448047c3356cbd6d4948f68a5ba480be00616e0501e70f"
+    },
+    "output/caravan-transcription/association.json": {
+      "bytes": 238,
+      "sha256": "fbfcc765ada785b3e83ec5abfb11bd5db5d0d6344cba61bd706b2abf1ffc7816"
+    },
+    "output/drum-score/Caravan_v2.mid": {
+      "bytes": 37347,
+      "sha256": "a0a78d97d0985c01daa512aef86bdde2b65f3be3c7f236d8dff8dd72e60ca822"
+    },
+    "output/drum-score/Caravan_v2.musicxml": {
+      "bytes": 2000234,
+      "sha256": "e5b0fbbb64e89054448025be1894489d34e9238ba1285a7d1bfaa24158e5f181"
+    },
+    "output/drum-score/association.json": {
+      "bytes": 418,
+      "sha256": "938763f360928bbe762364f16c148772a0accfaaf1bd53740446a99f5b27f9a3"
+    },
+    "output/library/README.md": {
+      "bytes": 772,
+      "sha256": "2719daf81258b8826ce1bd0a3ca3d35a5315742f6c10db15ed4f32229bf6fc0a"
+    },
+    "output/library/index.html": {
+      "bytes": 2620,
+      "sha256": "f67205e3057b6191e028278e284a45268906d5e6b508902a0dc2e2ff7fce0f67"
+    },
+    "output/caravan-performance/Caravan-full-1080p60.mp4": {
+      "bytes": 94465623,
+      "sha256": "e67ace193ce6d2a5dcf6e868bfca1b7f1f1545bfe59be9a334bf1b5610988c0a"
+    }
+  }
+}
